@@ -1,6 +1,6 @@
 # Desafio-10
 
-Se inicia el desafio modificando el archivo `main.js` y completando los desafios del enunciado. 
+Se inicia el desafio modificando el archivo `main.js`, `html` y completando los desafios del enunciado. 
 
 ## Ejercicios
 
